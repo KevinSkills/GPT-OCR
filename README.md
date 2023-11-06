@@ -27,7 +27,7 @@ Setting up the API Key
 For Windows:
     setx OPENAI_API_KEY "Your-API-Key"
 
-For macOS and Linux:
+For macOS and Linux (I think it is like this, have not tested it):
     export OPENAI_API_KEY="Your-API-Key"
 
 Remember to replace "Your-API-Key" with the actual API key provided by OpenAI.
@@ -43,7 +43,12 @@ tray icon or by using the configured hotkey.
 Hotkey
 ------
 The default hotkey to trigger OCR is `Ctrl+Alt+O`. Press this combination anytime 
-to perform OCR on the image currently in the clipboard.
+to perform OCR on the image currently in the clipboard. You can change this in the python script too
+
+
+System Message
+-----------
+You can change the system message inside the python script. It was made fairly quickly so may be optimized.
 
 System Tray
 -----------
