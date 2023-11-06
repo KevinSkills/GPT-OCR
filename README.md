@@ -34,7 +34,7 @@ Remember to replace "Your-API-Key" with the actual API key provided by OpenAI.
 
 Usage
 -----
-To run the application, simply navigate to the directory where the `PythonOCR.pyw` 
+To run the application, simply navigate to the directory where the `GPT_OCR.pyw` 
 file is located and double-click on the file.
 
 This will start the application without opening a command-line window. Once started, 
