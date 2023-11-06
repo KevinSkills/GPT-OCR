@@ -40,6 +40,7 @@ file is located and double-click on the file.
 This will start the application without opening a command-line window. Once started, 
 the application will reside in the system tray. You can interact with it through the 
 tray icon or by using the configured hotkey.
+
 Hotkey
 ------
 The default hotkey to trigger OCR is `Ctrl+Alt+O`. Press this combination anytime 
