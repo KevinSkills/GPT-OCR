@@ -12,9 +12,9 @@ Prerequisites
 -------------
 Before using the application, ensure that you have Python installed on your 
 system and the necessary libraries (pystray, PIL, keyboard, requests, pyperclip, 
-and tkinter) which can be installed using `pip`:
+and easygui) which can be installed using `pip`:
 
-    pip install pystray pillow keyboard requests pyperclip tkinter
+    pip install pystray pillow keyboard requests pyperclip easygui
 
 Additionally, you must have an API key from OpenAI to use their OCR model. 
 Set this key as an environment variable on your system.
