@@ -8,6 +8,9 @@ This application provides an OCR (Optical Character Recognition) feature
 that allows users to capture text from images stored in the clipboard. It 
 leverages the GPT-4 vision model for the OCR process.
 
+Demonstration:
+https://youtu.be/7b6P5XC0XP8
+
 Prerequisites
 -------------
 Before using the application, ensure that you have Python installed on your 
